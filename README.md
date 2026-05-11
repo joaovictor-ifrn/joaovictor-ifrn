@@ -13,7 +13,7 @@
 <div align="center">
   
 [<img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" height="40">](mailto:joaovictor.alfredo2009@gmail.com)
-[<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="40">](https://github.com/aprendizdoconnor)
+[<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="40">](https://github.com/joaovictor-ifrn)
 [<img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" height="40">](https://discord.com/users/1414784852733198561)
 
 </div>
