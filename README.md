@@ -1,60 +1,59 @@
-<div align="center">
+<h1 align="center">Hey, I'm João Victor 👋</h1>
 
-# 👋 Olá, eu sou o João Victor!
+<p align="center">
+  <strong>🇧🇷 Brazilian</strong> | <strong>👨‍💻 Junior Developer</strong>
+</p>
 
-**🇧🇷 Brasileiro** | **👨‍💻 Programador aprendiz/Júnior**  
-**🎯 Foco:** Desenvolvimento Web e Python  
-**❤️ Hobbies:** Codar, aprender novas tecnologias, resolver problemas
-
----
-
-## 📞 Contato
-
-<div align="center">
-  
-[<img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" height="40">](mailto:joaovictor.alfredo2009@gmail.com)
-[<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="40">](https://github.com/joaovictor-ifrn)
-[<img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" height="40">](https://discord.com/users/1414784852733198561)
-
-</div>
+<p align="center">
+  Fullstack developer in progress — frontend with React and backend with Python.
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️Technologies
 
 <div align="center">
-
-### Desenvolvimento Web
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" height="40">
-
-### Backend
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40">
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python&theme=dark" />
 </div>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🚀About me
+
+- 🎨 Frontend: HTML, CSS, JavaScript and React
+- 🐍 Backend: Python (learning)
+- 🎯 Focus: Web Development and Python
+- ❤️ Hobbies: Coding, learning new technologies, problem solving
+- 📍 Rio Grande do Norte, Brazil
+
+---
+
+## 📊GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovictor-ifrn&theme=github_dark" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaovictor-ifrn&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaovictor-ifrn&theme=github_dark" width="49%">
+</div>
+
+---
+
+## 📫Contact
 
 <div align="center">
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aprendizdoconnor&theme=github_dark" width="100%">
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aprendizdoconnor&theme=github_dark" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aprendizdoconnor&theme=github_dark" width="49%">
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictor.alfredo2009@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1414784852733198561)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovictor-ifrn)
 
 </div>
 
+---
 
+# 🕹️Contribution Graph
 
-
-
-<div align="center">
-
-![Cobrinha GitHub](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovictor-ifrn/joaovictor-ifrn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovictor-ifrn/joaovictor-ifrn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaovictor-ifrn/joaovictor-ifrn/output/pacman-contribution-graph-dark.svg">
+</picture>
