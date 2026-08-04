@@ -38,10 +38,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictor-ifrn&theme=github-compact&hide_border=true&area=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaovictor-ifrn&theme=darkhub&no-frame=true&column=7&margin-w=10" />
-</div>
-
 ---
 
 ## 📫Contact
